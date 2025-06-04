@@ -38,13 +38,17 @@ position: relative;
 padding: 10px;
 
 }
-footer{
-    background-color: rgba(139, 14, 14, 0.838);
-    text-align: center;
-    color: white;
-    size: 24;
-   
+footer {
+  background-color: #8b0e0e; /* un rojo más profesional */
+  text-align: center;
+  color: #fff;
+  font-size: 1.1rem;
+  padding: 1rem 0;
+  margin-top: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.2);
 }
+
 .texto{
     color: green;
     font-size: 20;
